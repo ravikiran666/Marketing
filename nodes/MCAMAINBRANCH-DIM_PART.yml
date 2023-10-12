@@ -7,7 +7,7 @@ steps:
         testsEnabled: true
       database: ""
       deployEnabled: true
-      description: Description_1
+      description: Description_2
       isMultisource: false
       locationName: MCAMAINBRANCH
       materializationType: table
